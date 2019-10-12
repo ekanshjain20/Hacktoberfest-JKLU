@@ -13,7 +13,7 @@ add a new file to the data folder of any format
 The contents of file should be
 ```py
 {
-    name: "Your Name"
+    name: "Ekansh"
     branch: "Your Branch"
     year: "Your current year"
     print("Print your experince of Hactoberfest event using above information in any sequece using all the above variables")
@@ -23,3 +23,4 @@ The contents of file should be
 - Now make a ```Pull Requet``` from your repository.
 
 > Congratulation on your first open souce contribution
+>thank you
